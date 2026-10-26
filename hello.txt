@@ -1,0 +1,2 @@
+Hi, Git!
+It's my first programm
